@@ -44,7 +44,7 @@ namespace PayNearMe.Controllers.api
 {
     public class WebServiceController : ApiController
     {
-
+        //Rrrr08172017
         IDictionary config;
         string server = string.Empty;
         private MySqlCommand command;
